@@ -4,10 +4,11 @@
 
 ![Portfolio Preview](./public/screenshot/Webhome.png)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/rayanelhabib/Portfolio-React-design-/blob/main/LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC)](https://tailwindcss.com/)
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rayanelhabib/Portfolio-React-design-/blob/main/LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
 
 ## 👨‍💻 About Me
 
